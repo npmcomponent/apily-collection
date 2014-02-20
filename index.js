@@ -10,8 +10,8 @@
  * Component dependencies
  */
 
-var Emitter = require('emitter');
-var Model = require('model')();
+var Emitter = require('apily-emitter');
+var Model = require('apily-model')();
 
 /*
  * Expose component
